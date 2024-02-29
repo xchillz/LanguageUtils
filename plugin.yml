@@ -1,0 +1,8 @@
+name: LanguageUtils
+api: 2.0.0
+version: 1.0.0
+author: xChillz
+main: langutils\xchillz\LanguageUtils
+depend:
+  - LanguageAPI
+  - CustomPlayer

@@ -1,0 +1,3 @@
+# Indicates the database used for storing player's language.
+# Available databases: sqlite, flatfile.
+database: 'sqlite'

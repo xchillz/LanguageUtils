@@ -1,0 +1,26 @@
+{
+  "en_US": {
+    "SET_LANGUAGE_COMMAND": "§cUsage: §7/<command> <language_id>",
+    "SET_LANGUAGE_LANG_NOT_FOUND": "§7<provided_id> §clanguage was not found. Available languages: <available_langs>.",
+    "SET_LANGUAGE_LANG_NOT_UPDATED": "§cYour language could not be updated to §7<new_language>§c.",
+    "SET_LANGUAGE_LANG_UPDATED": "§aYour language was updated from §7<old_lang> §ato §7<new_lang>§a.",
+    "SET_LANGUAGE_LANG_EQUAL": "§cYou must choose a different language.",
+    "MY_LANGUAGE_RESPONSE": "§aYour language is: §7<current_language_name> §awhich ID is: §7<current_language_id>§a."
+  },
+  "es_MX": {
+    "SET_LANGUAGE_COMMAND": "§cUso: §7/<command> <id_del_idioma>",
+    "SET_LANGUAGE_LANG_NOT_FOUND": "§cEl idioma §7<provided_id>§c no fue encontrado. Idiomas disponibles: §7<available_langs>§c.",
+    "SET_LANGUAGE_LANG_NOT_UPDATED": "§cNo se pudo actualizar tu idioma a §7<new_lang>§c.",
+    "SET_LANGUAGE_LANG_UPDATED": "§aTu idioma fue actualizado de §7<old_lang> §aa §7<new_lang>§a.",
+    "SET_LANGUAGE_LANG_EQUAL": "§cDebes elegir un idioma diferente.",
+    "MY_LANGUAGE_RESPONSE": "§aTu idioma es: §7<current_language_name> §ay su ID es: §7<current_language_id>§a."
+  },
+  "pt_BR": {
+    "SET_LANGUAGE_COMMAND": "§cUso: §7/<command> <id_da_língua>",
+    "SET_LANGUAGE_LANG_NOT_FOUND": "§cA língua §7<provided_id>§c não foi encontrada. Línguas disponíveis: §7<available_langs>§c.",
+    "SET_LANGUAGE_LANG_NOT_UPDATED": "§cNão foi possível atualizar sua língua para §7<new_lang>§c.",
+    "SET_LANGUAGE_LANG_UPDATED": "§aSua língua foi atualizada de §7<old_lang> §apara §7<new_lang>§a.",
+    "SET_LANGUAGE_LANG_EQUAL": "§cVocê deve escolher uma língua diferente.",
+    "MY_LANGUAGE_RESPONSE": "§aSua língua é: §7<current_language_name> §acujo id é: §7<current_language_id>§a."
+  }
+}
